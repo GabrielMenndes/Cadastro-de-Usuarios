@@ -174,15 +174,7 @@ git commit -m "docs: atualiza README"
 - Verifique se o backend permite CORS
 - Adicione headers CORS no backend se necessário
 
-## 📈 Próximos Passos
 
-- [ ] Adicionar testes com Vitest + React Testing Library
-- [ ] Implementar react-hook-form para validações avançadas
-- [ ] Adicionar react-toastify para notificações
-- [ ] Migrar para TypeScript
-- [ ] Implementar loading states e skeletons
-- [ ] Adicionar dark mode
-- [ ] Deploy na Vercel/Netlify
 
 ## 📚 Recursos
 
@@ -191,19 +183,16 @@ git commit -m "docs: atualiza README"
 - [Styled Components](https://styled-components.com)
 - [React Router](https://reactrouter.com)
 
-## 📝 Licença
-
-MIT License - veja [LICENSE](LICENSE) para mais detalhes
 
 ## 👨‍💻 Autor
 
 **Gabriel Mende**  
-📧 Email: seu-email@example.com  
-🔗 LinkedIn: [seu-perfil](https://linkedin.com/in/seu-usuario)  
-🐙 GitHub: [@seu-usuario](https://github.com/seu-usuario)
+📧 Email: gabrielmendes.dev@outlook.com 
+🔗 LinkedIn: [Gabrie-Mendes](https://www.linkedin.com/in/gabriel-bezerra-mendes/)  
+🐙 GitHub: [@GabrielMenndes](https://github.com/GabrielMenndes)
 
 ---
 
 <div align="center">
-  Feito com ❤️ para DevClub
+  Feito com Dedicação! (DevClub)
 </div>
