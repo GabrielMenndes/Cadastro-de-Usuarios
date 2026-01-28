@@ -6,7 +6,19 @@
 [![Vite](https://img.shields.io/badge/Vite-7.2.4-purple?logo=vite)](https://vitejs.dev)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-## 🎯 Funcionalidades
+## 📸 Screenshots
+
+### Tela de Cadastro
+![Cadastro de Usuários](.github/screenshots/home.png)
+
+### Tela de Listagem
+![Lista de Usuários](.github/screenshots/list.png)
+
+## � Demo
+
+![Demo da Aplicação](.github/screenshots/demo.gif)
+
+## �🎯 Funcionalidades
 
 - ✅ **Cadastrar** novos usuários
 - ✅ **Listar** todos os usuários com avatar
